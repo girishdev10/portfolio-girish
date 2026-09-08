@@ -2,6 +2,11 @@
 
 A single-file, self-contained portfolio site (`Index.html`) with a dark "blueprint / technical grid" theme. No build tools, frameworks, or external dependencies required — just open the file in a browser.
 
+
+College Project
+
+
+
 ## How it's built
 
 Everything lives in **one HTML file**:
