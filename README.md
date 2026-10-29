@@ -1,4 +1,4 @@
-# Girish A — Portfolio Website
+# Girish M — Portfolio Website
 
 A single-file, self-contained portfolio site (`Index.html`) with a dark "blueprint / technical grid" theme. No build tools, frameworks, or external dependencies required — just open the file in a browser.
 
