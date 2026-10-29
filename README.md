@@ -5,6 +5,7 @@ A single-file, self-contained portfolio site (`Index.html`) with a dark "bluepri
 
 ## How it's built
 
+
 Everything lives in **one HTML file**:
 - `<style>` — all CSS (colors, layout, animations)
 - `<body>` — all page content, split into `<section>` blocks
